@@ -2,6 +2,14 @@
 
 ## Project Overview
 
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-purple)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 Customer churn is a major challenge for subscription-based businesses. When customers leave a service, companies lose recurring revenue and must invest additional resources to acquire new customers.
 
 This project analyzes telecom customer data to identify patterns behind customer churn and build a predictive model to estimate churn probability.
